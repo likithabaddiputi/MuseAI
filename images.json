@@ -2,31 +2,103 @@
   {
     "file": "note/image_7.jpg",
     "label": "Vietnamese note",
-    "backstory": "The North Vietnam government, previously known as the Viet Minh, introduced dong as its currency in 1946, which replaced the French Indochinese piastre. The currency was revaluated in 1951 and 1959 at the rate of 100 to 1 and 1000 to 1, respectively."
+    "backstory": "The North Vietnam government, previously known as the Viet Minh, introduced dong as its currency in 1946, which replaced the French Indochinese piastre. The currency was revaluated in 1951 and 1959 at the rate of 100 to 1 and 1000 to 1, respectively.",
+    "audio": "note/note.mp3"
   },
   {
     "file": "note/image_8.jpg",
     "label": "Vietnamese note",
-    "backstory": "The North Vietnam government, previously known as the Viet Minh, introduced dong as its currency in 1946, which replaced the French Indochinese piastre. The currency was revaluated in 1951 and 1959 at the rate of 100 to 1 and 1000 to 1, respectively."
+    "backstory": "The North Vietnam government, previously known as the Viet Minh, introduced dong as its currency in 1946, which replaced the French Indochinese piastre. The currency was revaluated in 1951 and 1959 at the rate of 100 to 1 and 1000 to 1, respectively.",
+    "audio": "note/note.mp3"
   },
   {
     "file": "note/image_9.jpg",
     "label": "Vietnamese note",
-    "backstory": "The North Vietnam government, previously known as the Viet Minh, introduced dong as its currency in 1946, which replaced the French Indochinese piastre. The currency was revaluated in 1951 and 1959 at the rate of 100 to 1 and 1000 to 1, respectively."
+    "backstory": "The North Vietnam government, previously known as the Viet Minh, introduced dong as its currency in 1946, which replaced the French Indochinese piastre. The currency was revaluated in 1951 and 1959 at the rate of 100 to 1 and 1000 to 1, respectively.",
+    "audio": "note/note.mp3"
   },
   {
     "file": "note/image_10.jpg",
     "label": "Vietnamese note",
-    "backstory": "The North Vietnam government, previously known as the Viet Minh, introduced dong as its currency in 1946, which replaced the French Indochinese piastre. The currency was revaluated in 1951 and 1959 at the rate of 100 to 1 and 1000 to 1, respectively."
+    "backstory": "The North Vietnam government, previously known as the Viet Minh, introduced dong as its currency in 1946, which replaced the French Indochinese piastre. The currency was revaluated in 1951 and 1959 at the rate of 100 to 1 and 1000 to 1, respectively.",
+    "audio": "note/note.mp3"
   },
   {
     "file": "note/image_11.jpg",
     "label": "Vietnamese note",
-    "backstory": "The North Vietnam government, previously known as the Viet Minh, introduced dong as its currency in 1946, which replaced the French Indochinese piastre. The currency was revaluated in 1951 and 1959 at the rate of 100 to 1 and 1000 to 1, respectively."
+    "backstory": "The North Vietnam government, previously known as the Viet Minh, introduced dong as its currency in 1946, which replaced the French Indochinese piastre. The currency was revaluated in 1951 and 1959 at the rate of 100 to 1 and 1000 to 1, respectively.",
+    "audio": "note/note.mp3"
   },
   {
     "file": "note/image_12.jpg",
     "label": "Vietnamese note",
-    "backstory": "The North Vietnam government, previously known as the Viet Minh, introduced dong as its currency in 1946, which replaced the French Indochinese piastre. The currency was revaluated in 1951 and 1959 at the rate of 100 to 1 and 1000 to 1, respectively."
+    "backstory": "The North Vietnam government, previously known as the Viet Minh, introduced dong as its currency in 1946, which replaced the French Indochinese piastre. The currency was revaluated in 1951 and 1959 at the rate of 100 to 1 and 1000 to 1, respectively.",
+    "audio": "note/note.mp3"
+  },
+  {
+    "file": "coin_10/image_1.jpg",
+    "label": "Indian 10 Rs coin",
+    "backstory": "The 10-rupee coin was first introduced in India in 2005 to modernize the coinage system, provide a more durable alternative to paper notes, and reduce printing costs. The coin has a distinctive bi-metallic composition and has seen multiple design variations over the years, all of which remain legal tender today. ",
+    "audio": "coin_10/coin_10.mp3"
+  },
+  {
+    "file": "coin_10/image_2.jpg",
+    "label": "Indian 10 Rs coin",
+    "backstory": "The 10-rupee coin was first introduced in India in 2005 to modernize the coinage system, provide a more durable alternative to paper notes, and reduce printing costs. The coin has a distinctive bi-metallic composition and has seen multiple design variations over the years, all of which remain legal tender today. ",
+    "audio": "coin_10/coin_10.mp3"
+  },
+  {
+    "file": "coin_10/image_3.jpg",
+    "label": "Indian 10 Rs coin",
+    "backstory": "The 10-rupee coin was first introduced in India in 2005 to modernize the coinage system, provide a more durable alternative to paper notes, and reduce printing costs. The coin has a distinctive bi-metallic composition and has seen multiple design variations over the years, all of which remain legal tender today. ",
+    "audio": "coin_10/coin_10.mp3"
+  },
+  {
+    "file": "coin_10/image_4.jpg",
+    "label": "Indian 10 Rs coin",
+    "backstory": "The 10-rupee coin was first introduced in India in 2005 to modernize the coinage system, provide a more durable alternative to paper notes, and reduce printing costs. The coin has a distinctive bi-metallic composition and has seen multiple design variations over the years, all of which remain legal tender today. ",
+    "audio": "coin_10/coin_10.mp3"
+  },
+  {
+    "file": "coin_10/image_5.jpg",
+    "label": "Indian 10 Rs coin",
+    "backstory": "The 10-rupee coin was first introduced in India in 2005 to modernize the coinage system, provide a more durable alternative to paper notes, and reduce printing costs. The coin has a distinctive bi-metallic composition and has seen multiple design variations over the years, all of which remain legal tender today. ",
+    "audio": "coin_10/coin_10.mp3"
+  },
+  {
+    "file": "coin_10/image_6.jpg",
+    "label": "Indian 10 Rs coin",
+    "backstory": "The 10-rupee coin was first introduced in India in 2005 to modernize the coinage system, provide a more durable alternative to paper notes, and reduce printing costs. The coin has a distinctive bi-metallic composition and has seen multiple design variations over the years, all of which remain legal tender today. ",
+    "audio": "coin_10/coin_10.mp3"
+  },
+  {
+    "file": "coin_10/image_7.jpg",
+    "label": "Indian 10 Rs coin",
+    "backstory": "The 10-rupee coin was first introduced in India in 2005 to modernize the coinage system, provide a more durable alternative to paper notes, and reduce printing costs. The coin has a distinctive bi-metallic composition and has seen multiple design variations over the years, all of which remain legal tender today. ",
+    "audio": "coin_10/coin_10.mp3"
+  },
+  {
+    "file": "coin_10/image_8.jpg",
+    "label": "Indian 10 Rs coin",
+    "backstory": "The 10-rupee coin was first introduced in India in 2005 to modernize the coinage system, provide a more durable alternative to paper notes, and reduce printing costs. The coin has a distinctive bi-metallic composition and has seen multiple design variations over the years, all of which remain legal tender today. ",
+    "audio": "coin_10/coin_10.mp3"
+  },
+  {
+    "file": "coin_10/image_9.jpg",
+    "label": "Indian 10 Rs coin",
+    "backstory": "The 10-rupee coin was first introduced in India in 2005 to modernize the coinage system, provide a more durable alternative to paper notes, and reduce printing costs. The coin has a distinctive bi-metallic composition and has seen multiple design variations over the years, all of which remain legal tender today. ",
+    "audio": "coin_10/coin_10.mp3"
+  },
+  {
+    "file": "coin_10/image_10.jpg",
+    "label": "Indian 10 Rs coin",
+    "backstory": "The 10-rupee coin was first introduced in India in 2005 to modernize the coinage system, provide a more durable alternative to paper notes, and reduce printing costs. The coin has a distinctive bi-metallic composition and has seen multiple design variations over the years, all of which remain legal tender today. ",
+    "audio": "coin_10/coin_10.mp3"
+  },
+  {
+    "file": "coin_10/image_11.jpg",
+    "label": "Indian 10 Rs coin",
+    "backstory": "The 10-rupee coin was first introduced in India in 2005 to modernize the coinage system, provide a more durable alternative to paper notes, and reduce printing costs. The coin has a distinctive bi-metallic composition and has seen multiple design variations over the years, all of which remain legal tender today. ",
+    "audio": "coin_10/coin_10.mp3"
   }
 ]
