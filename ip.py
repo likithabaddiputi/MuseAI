@@ -10,4 +10,3 @@ while True:
     cv2.imshow("edges",cv2.Canny(blur,50,50))
 
 cap.release()
-
