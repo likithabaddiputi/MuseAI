@@ -9,7 +9,5 @@ while True:
     blur  = cv2.GaussianBlur(gray,(3,3),0)
     cv2.imshow("edges",cv2.Canny(blur,50,50))
 
-    if cv2.waitKey(1) & 0xFF == ord('q'):
-        break
-
 cap.release()
+
